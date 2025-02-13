@@ -9,5 +9,5 @@ Dynamic Content Movement – Smooth scrolling effects.
 Interactive Navigation – Clickable menu with active state highlighting.
 Responsive Design – Mobile-friendly layout with adaptive styling.
 
-🔗 [Live Demo (if available)]
+🔗 [Live Demo (https://nanmo57.github.io/Antique-Cafe/)]
 📌 Contributions & suggestions are welcome! 🚀
